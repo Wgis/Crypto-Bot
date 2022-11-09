@@ -11,7 +11,7 @@ expect.
 
 We strongly recommend you to have coding and Python knowledge. Do not
 hesitate to read the source code and understand the mechanism of this bot.
-
+ 
 ## Supported Exchange marketplaces
 
 Please read the [exchange specific notes](docs/exchanges.md) to learn about eventual, special configurations needed for each exchange.
